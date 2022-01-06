@@ -264,18 +264,18 @@
                 "drawing_id": "f4b65482-26e2-41ed-8f64-b3f175d2eb4b",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"164\" width=\"803\"><rect fill=\"#a1aa63\" fill-opacity=\"1.0\" height=\"164\" stroke=\"#000000\" stroke-width=\"2\" width=\"803\" /></svg>",
-                "x": 839,
-                "y": 214,
+                "svg": "<svg height=\"226\" width=\"803\"><rect fill=\"#a1aa63\" fill-opacity=\"1.0\" height=\"226\" stroke=\"#61aa1d\" stroke-width=\"5\" width=\"803\" /></svg>",
+                "x": 838,
+                "y": 173,
                 "z": 0
             },
             {
                 "drawing_id": "e0fc95b5-e24a-4efa-85ac-75f3ed9d3492",
                 "locked": false,
                 "rotation": 0,
-                "svg": "<svg height=\"164\" width=\"803\"><rect fill=\"#a1aa63\" fill-opacity=\"1.0\" height=\"164\" stroke=\"#000000\" stroke-width=\"2\" width=\"803\" /></svg>",
-                "x": 838,
-                "y": 460,
+                "svg": "<svg height=\"232\" width=\"803\"><rect fill=\"#a1aa63\" fill-opacity=\"1.0\" height=\"232\" stroke=\"#61aa1d\" stroke-width=\"5\" width=\"803\" /></svg>",
+                "x": 840,
+                "y": 476,
                 "z": 0
             },
             {
@@ -319,7 +319,7 @@
                 "locked": false,
                 "rotation": 0,
                 "svg": "<svg height=\"412\" width=\"515\"><rect fill=\"#c5c5c5\" fill-opacity=\"1.0\" height=\"412\" stroke=\"#757575\" stroke-width=\"5\" width=\"515\" /></svg>",
-                "x": -246,
+                "x": -242,
                 "y": 181,
                 "z": -1
             },
@@ -411,6 +411,123 @@
                 "svg": "<svg height=\"44\" width=\"168\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Experi\u00eancia RSTP - B \n</text></svg>",
                 "x": 1030,
                 "y": -631,
+                "z": 2
+            },
+            {
+                "drawing_id": "6157ffd8-78a6-4000-a01a-8f201b634a79",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"44\" width=\"170\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Experi\u00eancia MSTP - C \n</text></svg>",
+                "x": 852,
+                "y": 177,
+                "z": 2
+            },
+            {
+                "drawing_id": "ca342cf7-225b-4c83-a079-6bd9eb93bc9e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"44\" width=\"176\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Experi\u00eancia MSTP - CC\n</text></svg>",
+                "x": 847,
+                "y": 486,
+                "z": 2
+            },
+            {
+                "drawing_id": "62fffa71-2a64-4b62-8a7f-b9c5044e8ad9",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"116\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">192.168.1.0  /24</text></svg>",
+                "x": 1523,
+                "y": 367,
+                "z": 2
+            },
+            {
+                "drawing_id": "aef6ef4a-7bd7-41ab-8559-3e373acc38ca",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"24\" width=\"116\"><text fill=\"#000000\" fill-opacity=\"1.0\" font-family=\"TypeWriter\" font-size=\"10.0\" font-weight=\"bold\">192.168.1.0  /24</text></svg>",
+                "x": 1521,
+                "y": 683,
+                "z": 2
+            },
+            {
+                "drawing_id": "e116d147-cd46-43d2-a5a6-0f96a4c87fb8",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"15.565576372161559\" width=\"15.397474568603343\"><ellipse cx=\"7\" cy=\"7\" fill=\"#55aa00\" fill-opacity=\"1.0\" rx=\"8\" ry=\"8\" stroke=\"#55aa00\" stroke-width=\"2\" /></svg>",
+                "x": 169,
+                "y": 374,
+                "z": 1
+            },
+            {
+                "drawing_id": "c288996a-1fe3-4f2d-ac63-5b5e2f338840",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"148\" width=\"135\"><rect fill=\"#e63e0b\" fill-opacity=\"1.0\" height=\"148\" stroke=\"#000000\" stroke-width=\"2\" width=\"135\" /></svg>",
+                "x": 119,
+                "y": 248,
+                "z": 0
+            },
+            {
+                "drawing_id": "11fedb28-b681-4ee4-99fb-6cdbb1d70095",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"26\" width=\"96\"><text fill=\"#ffffff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Root Bridge</text></svg>",
+                "x": 140,
+                "y": 251,
+                "z": 2
+            },
+            {
+                "drawing_id": "82392ba7-64bf-461f-9bb6-57b8f067d213",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"118\" width=\"155\"><rect fill=\"#e63e0b\" fill-opacity=\"1.0\" height=\"118\" stroke=\"#000000\" stroke-width=\"2\" width=\"155\" /></svg>",
+                "x": 1156,
+                "y": -515,
+                "z": 0
+            },
+            {
+                "drawing_id": "289d1a0d-fa5c-48cc-a3c6-2702f9419f9c",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"26\" width=\"96\"><text fill=\"#ffffff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Root Bridge</text></svg>",
+                "x": 1156,
+                "y": -517,
+                "z": 2
+            },
+            {
+                "drawing_id": "d50ab142-a76c-4df1-9a02-108ff65f57db",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"80\" width=\"184\"><rect fill=\"#e63e0b\" fill-opacity=\"1.0\" height=\"80\" stroke=\"#000000\" stroke-width=\"2\" width=\"184\" /></svg>",
+                "x": 1440,
+                "y": 184,
+                "z": 0
+            },
+            {
+                "drawing_id": "8baaae0a-8e5d-4061-a417-aed3390a244e",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"62\" width=\"155\"><text fill=\"#ffffff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Name: regiao1\nRevision Number: 1\nInst\u00e2ncia 0 e 1</text></svg>",
+                "x": 1460,
+                "y": 495,
+                "z": 2
+            },
+            {
+                "drawing_id": "fa3e892e-eb0c-4f6e-b5e7-687e47b69532",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"80\" width=\"184\"><rect fill=\"#e63e0b\" fill-opacity=\"1.0\" height=\"80\" stroke=\"#000000\" stroke-width=\"2\" width=\"184\" /></svg>",
+                "x": 1445,
+                "y": 488,
+                "z": 0
+            },
+            {
+                "drawing_id": "09f13618-b02f-4a58-a1e7-93923ca7b907",
+                "locked": false,
+                "rotation": 0,
+                "svg": "<svg height=\"62\" width=\"155\"><text fill=\"#ffffff\" fill-opacity=\"1.0\" font-family=\"MS Shell Dlg 2\" font-size=\"11.0\" font-weight=\"bold\">Name: regiao1\nRevision Number: 1\nInst\u00e2ncia 0 e 1</text></svg>",
+                "x": 1453,
+                "y": 194,
                 "z": 2
             }
         ],
@@ -1110,7 +1227,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "eth0",
-                            "x": -7,
+                            "x": -33,
                             "y": 29
                         },
                         "node_id": "6b1d9a8c-3c24-4226-8a06-79edfec41f1e",
@@ -1238,7 +1355,7 @@
                             "rotation": 0,
                             "style": "font-family: TypeWriter;font-size: 10.0;font-weight: bold;fill: #000000;fill-opacity: 1.0;",
                             "text": "eth0",
-                            "x": -27,
+                            "x": -33,
                             "y": 32
                         },
                         "node_id": "6a3ce2cc-5245-48af-b2ed-e2a783b1a8ec",
@@ -1941,7 +2058,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "7a1592fdff689b936fde2787d175b76f0fdb3d0a073c5601b4ffc9a083bca5d5",
+                    "container_id": "f522156972643c9a5754aeea3e002c262c471dfc6a1348856c6d6324d13b5019",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -1983,7 +2100,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "c5bdc2f53526f302dc2185732d6a27962c9e863821acaa5df285370c1e63e2d5",
+                    "container_id": "28c83e9ce6d8ad55edb36e435ec4375e2fd33e4c44ac80a6f4dd752d73bedd5d",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -2025,7 +2142,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "669eaead4a975bd823622b6319427dc5f0a34f8e3cc6c6c6379c78c57ccaf52b",
+                    "container_id": "eb3c47ddb048f6ed440358f0cb19704ddbf51e03aa937ce3446189c4ef4bdeb5",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -2067,7 +2184,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "aac1c1861244b9f787431739e72e7ecb8d434751eea355504f3a24aaa5b794f6",
+                    "container_id": "d2fdb683a7dae45b6f945d33367f4f88a18b26b8f812d4c4404bc1f29134bb52",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -2109,7 +2226,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "a6ee9a852ad61c3e2028c754de8619b6cb913e8a81af63922fc0819145b1dd33",
+                    "container_id": "9c1021ffce91598a121ff0ba30bab0d98c01b237070bc41a1b6d98efafa8595b",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -2151,7 +2268,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "09d6bd79983476360a0ce8427d21a68327534970d8593a8b35d52d82b60f62cc",
+                    "container_id": "29da4cb69b8d91c2c2ca7daa509ac3edd84d31218e0a0c4243ff56557b55ff11",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -2163,7 +2280,7 @@
                 "template_id": "53a9132f-f493-4eef-a440-0cfc0640f890",
                 "width": 65,
                 "x": 850,
-                "y": 518,
+                "y": 602,
                 "z": 1
             },
             {
@@ -2193,7 +2310,7 @@
                     "console_http_path": "/",
                     "console_http_port": 80,
                     "console_resolution": "1024x768",
-                    "container_id": "e13fecb03fe8a25c6eda0978dbd4f07699b1f745b530731f24d7d17be4aa6d6b",
+                    "container_id": "8dff48e5eb4f2778f70fad56d72542c3c95030167764b788297fe9f929367552",
                     "environment": null,
                     "extra_hosts": null,
                     "extra_volumes": [],
@@ -2205,7 +2322,7 @@
                 "template_id": "53a9132f-f493-4eef-a440-0cfc0640f890",
                 "width": 65,
                 "x": 1543,
-                "y": 521,
+                "y": 605,
                 "z": 1
             },
             {
@@ -2325,7 +2442,7 @@
                 "template_id": "b714f9e8-e13d-4ed3-9822-1d7228d15196",
                 "width": 51,
                 "x": 1044,
-                "y": 524,
+                "y": 608,
                 "z": 1
             },
             {
@@ -2365,7 +2482,7 @@
                 "template_id": "b714f9e8-e13d-4ed3-9822-1d7228d15196",
                 "width": 51,
                 "x": 1374,
-                "y": 528,
+                "y": 612,
                 "z": 1
             }
         ]
@@ -2373,5 +2490,5 @@
     "type": "topology",
     "variables": [],
     "version": "2.2.26",
-    "zoom": 100
+    "zoom": 101
 }
